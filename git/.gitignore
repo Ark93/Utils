@@ -1,0 +1,4 @@
+# file to specify which files/folders to ignore in the repository
+
+# ignoring .log file
+.log
